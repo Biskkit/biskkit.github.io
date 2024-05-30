@@ -1,2 +1,3 @@
 # biskkit.github.io
-Repository for my GitHub website
+Welcome to my site!
+*Currently a work in progress*
